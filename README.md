@@ -29,5 +29,6 @@ I'm Valeriia Bovsunovska, enthusiastic and adaptable professional seeking a Juni
  • [valeriia.bovsunovska@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=valeriia.bovsunovska@gmail.com)
 
 ![Valeriia's GitHub stats](https://github-readme-stats.vercel.app/api?username=valeriia458&show_icons=true&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
 
 
