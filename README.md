@@ -24,7 +24,7 @@ I'm Valeriia Bovsunovska, enthusiastic and adaptable professional seeking a Juni
 
 **Bizness**    
 
- • 📎 My resume/CV  
+ [• 📎 My resume/CV}(https://drive.google.com/file/d/101kIUy3rD4xA711ZI3kcG7NjIm0l166K/view?usp=sharing)  
  
  • valeriia.bovsunovska@gmail.com
 
