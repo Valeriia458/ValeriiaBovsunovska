@@ -20,4 +20,5 @@ I'm Valeriia Bovsunovska, enthusiastic and adaptable professional seeking a Juni
 
 **Certificates**
 
+ <img width="1000" height="1000" alt="google-project-management-professional-certificate- 1" src="https://github.com/user-attachments/assets/c0cb4dfa-0ef9-4155-b279-ce8ffd3bec64" />
 
