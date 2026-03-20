@@ -9,6 +9,7 @@ I'm Valeriia Bovsunovska, enthusiastic and adaptable professional seeking a Juni
 [![Static Badge](https://img.shields.io/badge/Valeriia%20Bovsunovska-blue?style=flat&logoColor=white&label=in&labelColor=%2317AEB9&color=%23007DC1)](https://www.linkedin.com/in/valeriia-bovsunovska-aa8615312/)
 
   
-  **Top Technologies**    
+  **Top Technologies**      
+  
   ![Static Badge](https://img.shields.io/badge/Google%20Drive-white?style=flat&logo=Google%20Drive&labelColor=%231E1E28&color=%234E9A06)
 
