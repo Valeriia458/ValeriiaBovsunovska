@@ -21,6 +21,6 @@ I'm Valeriia Bovsunovska, enthusiastic and adaptable professional seeking a Juni
 **Certificates**  
 
 [<img width="120" height="120" alt="google-project-management-professional-certificate- 1" src="https://github.com/user-attachments/assets/c0cb4dfa-0ef9-4155-b279-ce8ffd3bec64" />](https://www.coursera.org/account/accomplishments/professional-cert/D7AHE5TJMD2B)
-![Static Badge](https://img.shields.io/badge/Digital%20Marketing%20Manager-white?style=flat&logo=marvelapp&labelColor=%231E1E28&color=%23000C1F)
+
 
 
