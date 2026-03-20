@@ -18,4 +18,6 @@ I'm Valeriia Bovsunovska, enthusiastic and adaptable professional seeking a Juni
   ![Static Badge](https://img.shields.io/badge/Monday.com-white?style=flat&logo=MEGA&labelColor=%231E1E28&color=%23FF6600)
 
 
+**Certificates**
+
 
