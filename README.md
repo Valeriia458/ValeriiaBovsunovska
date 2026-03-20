@@ -22,6 +22,8 @@ I'm Valeriia Bovsunovska, enthusiastic and adaptable professional seeking a Juni
 
 [<img width="120" height="120" alt="google-project-management-professional-certificate- 1" src="https://github.com/user-attachments/assets/c0cb4dfa-0ef9-4155-b279-ce8ffd3bec64" />](https://www.coursera.org/account/accomplishments/professional-cert/D7AHE5TJMD2B)
 
+![Valeriia's GitHub stats](https://github-readme-stats.vercel.app/api?username=valeriia458&show_icons=true&theme=transparent)  
+
 ![Valeriia's GitHub stats](https://github-readme-stats.vercel.app/api?username=valeriia458&show_icons=true&theme=transparent)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+
 
