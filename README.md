@@ -13,5 +13,7 @@ I'm Valeriia Bovsunovska, enthusiastic and adaptable professional seeking a Juni
   
   ![Static Badge](https://img.shields.io/badge/Google%20Drive-white?style=flat&logo=Google%20Drive&labelColor=%231E1E28&color=%234E9A06)
   ![Static Badge](https://img.shields.io/badge/Google%20Gemini-white?style=flat&logo=googlegemini&labelColor=%231E1E28&color=%23EF2D5E)
+  ![Static Badge](https://img.shields.io/badge/Monday.com-white?style=flat&logo=MEGA&labelColor=%231E1E28&color=%23FF6600)
+
 
 
