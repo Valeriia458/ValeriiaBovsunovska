@@ -7,3 +7,5 @@ I'm Valeriia Bovsunovska, enthusiastic and adaptable professional seeking a Juni
 
 [![Email](https://img.shields.io/badge/Valeriia%20Bovsunovska-blue?logo=Gmail&logoColor=white&color=%23F01428)](https://mail.google.com/mail/?view=cm&fs=1&to=valeriia.bovsunovska@gmail.com) 
 [![Static Badge](https://img.shields.io/badge/Valeriia%20Bovsunovska-blue?style=flat&logoColor=white&label=in&labelColor=%2317AEB9&color=%23007DC1)](https://www.linkedin.com/in/valeriia-bovsunovska-aa8615312/)
+
+**Top Technologies**  
